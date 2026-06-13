@@ -1,0 +1,10 @@
+venv/
+.env
+data/raw/
+data/processed/
+models/*.pt
+runs/
+__pycache__/
+*.log
+.ipynb_checkpoints/
+.streamlit/
