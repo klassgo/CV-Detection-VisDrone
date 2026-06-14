@@ -116,7 +116,7 @@ if uploaded_file is not None:
 
 if st.button("Вывод графиков обучения моделей"):
     st.image(
-        [str(MODELS_DIR / "results_8n.png"), str(MODELS_DIR / "results_8m.png")], 
-        caption=["**Обучение Nano (GTX 3050 4gb Laptop)**", "**Обучение Medium (T4 x2 15gb Kaggle)**"],
+        [str(MODELS_DIR / "results_8n.png"), str(MODELS_DIR / "results_8m.png"), str(MODELS_DIR / "results_8m_add60tpochs.png")], 
+        caption=["**Обучение Nano (GTX 3050 4gb Laptop)**", "**Обучение Medium (T4 x2 15gb Kaggle)**", "**Дообучение Medium (T4 x2 15gb Kaggle) + 60 эпох**"],
         use_column_width=True
     )
