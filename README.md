@@ -1,4 +1,6 @@
-# Drone Vision MVP (VisDrone Object Detection)
+# Drone Vision MVP (VisDrone Object Detection) 
+
+Ссылка (если до сих пор хостится): https://cv-detection-visdrone-project.streamlit.app/
 
 Прототип ML-приложения для распознавания объектов на изображениях, снятых с (дронов.
 Реализован сайт на streamlit с следующим функционалом:
@@ -7,6 +9,8 @@
 3. Выбор классов для детекция
 4. Вывод изображения с bbox
 5. Вывод графиков обучения модели
+
+# Видео-тест MVP
 
 ![Тест web-интерфейса](src/video_test.gif)
 
