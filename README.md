@@ -1,4 +1,4 @@
-# Drone Vision MVP (VisDrone Object Detection) 
+# Drone Vision MVP (Детекция объектов на фото с дронов) 
 
 Ссылка (если до сих пор хостится): https://cv-detection-visdrone-project.streamlit.app/
 
